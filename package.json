@@ -1,0 +1,21 @@
+{
+  "name": "@forscht/eslint-config",
+  "version": "1.0.0",
+  "description": "Sharable eslint config written with SOLID principles in mind.",
+  "main": "index.js",
+  "author": "Darshan Patel <heyforscht@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide",
+    "js"
+  ],
+  "dependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
